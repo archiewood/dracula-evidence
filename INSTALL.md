@@ -1,19 +1,18 @@
-### [Foobar](https://foobar.com)
+### [Evidence](https://evidence.dev)
 
 #### Install using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
 ```bash
-git clone https://github.com/dracula/foobar.git
+git clone https://github.com/dracula/evidence.git
 ```
 
 #### Install manually
 
-Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/archive/main.zip) option and unzip them.
+Download using the [GitHub `.zip` download](https://github.com/dracula/evidence/archive/main.zip) option and unzip them.
 
 #### Activating theme
 
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+1. Copy the `theme` and `appearance` config into your project's `evidence.config.yaml` 
+2. Restart Evidence for the changes to take effect.
